@@ -1,1 +1,1 @@
-This is the Firat file Inside Git Hub Folder..!
+This is the First file Inside Git Hub Folder..!
